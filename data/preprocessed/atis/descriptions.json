@@ -1,0 +1,20 @@
+{
+    "abbreviation": "user is asking what an abbreviation stands for or mean",
+    "aircraft": "user is asking about an aircraft",
+    "airfare": "user is asking about fares, costs or airfares",
+    "airline": "user is asking about an airline/airlines",
+    "airport": "user is asking about an airport/airports",
+    "capacity": "user is asking about capacity (of an aircraft)",
+    "cheapest": "user is asking about the cheapest (fare)",
+    "city": "user is asking about a city or place",
+    "day_name": "user is asking about a day (of the week)",
+    "distance": "user is asking for the distance between places/locations",
+    "flight": "user is asking about available flights",
+    "flight_no": "user is asking about a flight number",
+    "flight_time": "user is asking about departure time or schedule for a flight",
+    "ground_fare": "user is asking about the ground fare at a destination",
+    "ground_service": "user is asking about ground service at a location",
+    "meal": "user is asking about meals/catering",
+    "quantity": "user is asking about the quantity/amount of something",
+    "restriction": "user is asking about restrictions"
+}

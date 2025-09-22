@@ -1,0 +1,9 @@
+{
+    "AddToPlaylist": "user wants to add a song to a playlist",
+    "BookRestaurant": "user wants to book/make a reservation at a restaurant",
+    "GetWeather": "user wants to know about the weather",
+    "PlayMusic": "user wants to play a song",
+    "RateBook": "user wants the rating of/to rate a book",
+    "SearchCreativeWork": "user wants to find a creative work (book, song etc.)",
+    "SearchScreeningEvent": "user wants to know when a movie is on/screening time of a movie"
+}

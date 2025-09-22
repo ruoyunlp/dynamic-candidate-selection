@@ -1,0 +1,272 @@
+[
+    {
+        "AddToPlaylist": "user wants to add a song to a playlist",
+        "BookRestaurant": "user wants to book/make a reservation at a restaurant",
+        "GetWeather": "The user requests meteorological information.",
+        "PlayMusic": "user wants to play a song",
+        "RateBook": "user wants the rating of/to rate a book",
+        "SearchCreativeWork": "User seeks out artistic expressions like books or music.",
+        "SearchScreeningEvent": "User seeks information about a film's scheduled showtimes."
+    },
+    {
+        "AddToPlaylist": "The user intends to incorporate a musical track into an existing playlist.",
+        "BookRestaurant": "user desires to reserve a table at a dining establishment.",
+        "GetWeather": "The user requests meteorological information.",
+        "PlayMusic": "user wants to play a song",
+        "RateBook": "User seeks or provides a book's evaluation.",
+        "SearchCreativeWork": "User seeks out artistic creations like books, music, or other expressive works.",
+        "SearchScreeningEvent": "user wants to know when a movie is on/screening time of a movie"
+    },
+    {
+        "AddToPlaylist": "User aims to include a track within their existing playlist.",
+        "BookRestaurant": "The user desires to reserve a table at a dining establishment.",
+        "GetWeather": "User inquires about current or future weather conditions.",
+        "PlayMusic": "User requests audio playback of a specific track.",
+        "RateBook": "user wants the rating of/to rate a book",
+        "SearchCreativeWork": "User seeks out artistic creations like books, music, or other expressive works.",
+        "SearchScreeningEvent": "user wants to know when a movie is on/screening time of a movie"
+    },
+    {
+        "AddToPlaylist": "user wants to add a song to a playlist",
+        "BookRestaurant": "User wishes to reserve a table at a dining establishment.",
+        "GetWeather": "user wants to know about the weather",
+        "PlayMusic": "user wants to play a song",
+        "RateBook": "user wants the rating of/to rate a book",
+        "SearchCreativeWork": "User seeks out artistic expressions like books or music.",
+        "SearchScreeningEvent": "user seeks information about a film's public display schedule"
+    },
+    {
+        "AddToPlaylist": "User seeks to incorporate a track into an existing playlist.",
+        "BookRestaurant": "User wishes to reserve a table at a dining establishment.",
+        "GetWeather": "User inquires about current or future weather conditions.",
+        "PlayMusic": "User requests audio playback of a specific musical track.",
+        "RateBook": "User seeks or provides a book's evaluation.",
+        "SearchCreativeWork": "user wants to find a creative work (book, song etc.)",
+        "SearchScreeningEvent": "user wants to know when a movie is on/screening time of a movie"
+    },
+    {
+        "AddToPlaylist": "user wants to add a song to a playlist",
+        "BookRestaurant": "The user desires to reserve a table at a dining establishment.",
+        "GetWeather": "user wants to know about the weather",
+        "PlayMusic": "User requests audio playback of a specific track.",
+        "RateBook": "User seeks or provides a book's evaluation.",
+        "SearchCreativeWork": "user wants to find a creative work (book, song etc.)",
+        "SearchScreeningEvent": "user wants to know when a movie is on/screening time of a movie"
+    },
+    {
+        "AddToPlaylist": "User aims to include a track within their existing playlist.",
+        "BookRestaurant": "User wishes to reserve a table at a dining establishment.",
+        "GetWeather": "User requests current weather information.",
+        "PlayMusic": "user wants to play a song",
+        "RateBook": "user wants the rating of/to rate a book",
+        "SearchCreativeWork": "User seeks out artistic expressions like books or music.",
+        "SearchScreeningEvent": "User seeks information about a film's scheduled showtimes."
+    },
+    {
+        "AddToPlaylist": "user wants to add a song to a playlist",
+        "BookRestaurant": "The user desires to reserve a table at a dining establishment.",
+        "GetWeather": "user wants to know about the weather",
+        "PlayMusic": "user wants to play a song",
+        "RateBook": "User seeks or provides an evaluation of a book's quality.",
+        "SearchCreativeWork": "The user is looking for a creative product like a book or song.",
+        "SearchScreeningEvent": "user seeks information about a film's public display schedule"
+    },
+    {
+        "AddToPlaylist": "User aims to include a track within their existing playlist.",
+        "BookRestaurant": "User wishes to reserve a table at a dining establishment.",
+        "GetWeather": "User requests current weather information.",
+        "PlayMusic": "User requests audio playback of a specific track.",
+        "RateBook": "user wants the rating of/to rate a book",
+        "SearchCreativeWork": "User seeks out artistic expressions like books or music.",
+        "SearchScreeningEvent": "user seeks information about a film's public display schedule"
+    },
+    {
+        "AddToPlaylist": "User seeks to incorporate a track into an existing playlist.",
+        "BookRestaurant": "User wishes to reserve a table at a dining establishment.",
+        "GetWeather": "user wants to know about the weather",
+        "PlayMusic": "user wants to play a song",
+        "RateBook": "User seeks or provides a book's evaluation.",
+        "SearchCreativeWork": "user wants to find a creative work (book, song etc.)",
+        "SearchScreeningEvent": "user seeks information about a film's public display schedule"
+    },
+    {
+        "AddToPlaylist": "The user intends to incorporate a musical track into an existing playlist.",
+        "BookRestaurant": "The user desires to reserve a table at a dining establishment.",
+        "GetWeather": "User inquires about current or future weather conditions.",
+        "PlayMusic": "User requests audio playback of a specific track.",
+        "RateBook": "User seeks or provides a book's evaluation.",
+        "SearchCreativeWork": "User seeks out artistic expressions like books or music.",
+        "SearchScreeningEvent": "user wants to know when a movie is on/screening time of a movie"
+    },
+    {
+        "AddToPlaylist": "user wants to add a song to a playlist",
+        "BookRestaurant": "user wants to book/make a reservation at a restaurant",
+        "GetWeather": "User requests current weather information.",
+        "PlayMusic": "User requests audio playback of a specific track.",
+        "RateBook": "user wants the rating of/to rate a book",
+        "SearchCreativeWork": "The user is looking for a creative product like a book or song.",
+        "SearchScreeningEvent": "user wants to know when a movie is on/screening time of a movie"
+    },
+    {
+        "AddToPlaylist": "user wants to add a song to a playlist",
+        "BookRestaurant": "user wants to book/make a reservation at a restaurant",
+        "GetWeather": "user wants to know about the weather",
+        "PlayMusic": "User requests audio playback of a specific track.",
+        "RateBook": "User seeks or provides an evaluation of a book's quality.",
+        "SearchCreativeWork": "user wants to find a creative work (book, song etc.)",
+        "SearchScreeningEvent": "user seeks information about a film's public display schedule"
+    },
+    {
+        "AddToPlaylist": "user wants to add a song to a playlist",
+        "BookRestaurant": "User wishes to reserve a table at a dining establishment.",
+        "GetWeather": "user wants to know about the weather",
+        "PlayMusic": "user wants to play a song",
+        "RateBook": "User seeks or provides a book's evaluation.",
+        "SearchCreativeWork": "User seeks out artistic creations like books, music, or other expressive works.",
+        "SearchScreeningEvent": "User inquiries about movie showtimes."
+    },
+    {
+        "AddToPlaylist": "The user intends to incorporate a musical track into an existing playlist.",
+        "BookRestaurant": "user wants to book/make a reservation at a restaurant",
+        "GetWeather": "User requests current weather information.",
+        "PlayMusic": "user wants to play a song",
+        "RateBook": "user wants the rating of/to rate a book",
+        "SearchCreativeWork": "user wants to find a creative work (book, song etc.)",
+        "SearchScreeningEvent": "user wants to know when a movie is on/screening time of a movie"
+    },
+    {
+        "AddToPlaylist": "User seeks to incorporate a track into an existing playlist.",
+        "BookRestaurant": "user wants to book/make a reservation at a restaurant",
+        "GetWeather": "User requests current weather information.",
+        "PlayMusic": "User requests audio playback of a specific track.",
+        "RateBook": "User seeks or provides an evaluation of a book's quality.",
+        "SearchCreativeWork": "User seeks out artistic creations like books, music, or other expressive works.",
+        "SearchScreeningEvent": "user wants to know when a movie is on/screening time of a movie"
+    },
+    {
+        "AddToPlaylist": "user wants to add a song to a playlist",
+        "BookRestaurant": "user wants to book/make a reservation at a restaurant",
+        "GetWeather": "User inquires about current or future weather conditions.",
+        "PlayMusic": "User requests audio playback of a specific track.",
+        "RateBook": "User seeks or provides an evaluation of a book's quality.",
+        "SearchCreativeWork": "User seeks out artistic creations like books, music, or other expressive works.",
+        "SearchScreeningEvent": "user wants to know when a movie is on/screening time of a movie"
+    },
+    {
+        "AddToPlaylist": "user wants to add a song to a playlist",
+        "BookRestaurant": "user wants to book/make a reservation at a restaurant",
+        "GetWeather": "User requests current weather information.",
+        "PlayMusic": "User requests audio playback of a specific track.",
+        "RateBook": "User seeks or provides a book's evaluation.",
+        "SearchCreativeWork": "User seeks out artistic creations like books, music, or other expressive works.",
+        "SearchScreeningEvent": "user wants to know when a movie is on/screening time of a movie"
+    },
+    {
+        "AddToPlaylist": "user wants to add a song to a playlist",
+        "BookRestaurant": "user wants to book/make a reservation at a restaurant",
+        "GetWeather": "user wants to know about the weather",
+        "PlayMusic": "User requests audio playback of a specific musical track.",
+        "RateBook": "user wants the rating of/to rate a book",
+        "SearchCreativeWork": "User seeks out artistic expressions like books or music.",
+        "SearchScreeningEvent": "user seeks information about a film's public display schedule"
+    },
+    {
+        "AddToPlaylist": "User aims to include a track within their existing playlist.",
+        "BookRestaurant": "user wants to book/make a reservation at a restaurant",
+        "GetWeather": "User requests current weather information.",
+        "PlayMusic": "User requests audio playback of a specific musical track.",
+        "RateBook": "user wants the rating of/to rate a book",
+        "SearchCreativeWork": "User seeks out artistic expressions like books or music.",
+        "SearchScreeningEvent": "user wants to know when a movie is on/screening time of a movie"
+    },
+    {
+        "AddToPlaylist": "user wants to add a song to a playlist",
+        "BookRestaurant": "User wishes to reserve a table at a dining establishment.",
+        "GetWeather": "user wants to know about the weather",
+        "PlayMusic": "user wants to play a song",
+        "RateBook": "User seeks or provides a book's evaluation.",
+        "SearchCreativeWork": "user wants to find a creative work (book, song etc.)",
+        "SearchScreeningEvent": "user wants to know when a movie is on/screening time of a movie"
+    },
+    {
+        "AddToPlaylist": "user wants to add a song to a playlist",
+        "BookRestaurant": "User wishes to reserve a table at a dining establishment.",
+        "GetWeather": "user wants to know about the weather",
+        "PlayMusic": "User requests audio playback of a specific musical track.",
+        "RateBook": "user wants the rating of/to rate a book",
+        "SearchCreativeWork": "User seeks out artistic creations like books, music, or other expressive works.",
+        "SearchScreeningEvent": "user wants to know when a movie is on/screening time of a movie"
+    },
+    {
+        "AddToPlaylist": "The user intends to incorporate a musical track into an existing playlist.",
+        "BookRestaurant": "user desires to reserve a table at a dining establishment.",
+        "GetWeather": "user wants to know about the weather",
+        "PlayMusic": "user wants to play a song",
+        "RateBook": "user wants the rating of/to rate a book",
+        "SearchCreativeWork": "user wants to find a creative work (book, song etc.)",
+        "SearchScreeningEvent": "User inquiries about movie showtimes."
+    },
+    {
+        "AddToPlaylist": "User aims to include a track within their existing playlist.",
+        "BookRestaurant": "user wants to book/make a reservation at a restaurant",
+        "GetWeather": "The user requests meteorological information.",
+        "PlayMusic": "User requests audio playback of a specific track.",
+        "RateBook": "user wants the rating of/to rate a book",
+        "SearchCreativeWork": "User seeks out artistic expressions like books or music.",
+        "SearchScreeningEvent": "user seeks information about a film's public display schedule"
+    },
+    {
+        "AddToPlaylist": "The user intends to incorporate a musical track into an existing playlist.",
+        "BookRestaurant": "The user desires to reserve a table at a dining establishment.",
+        "GetWeather": "User requests current weather information.",
+        "PlayMusic": "user wants to play a song",
+        "RateBook": "user wants the rating of/to rate a book",
+        "SearchCreativeWork": "user wants to find a creative work (book, song etc.)",
+        "SearchScreeningEvent": "user seeks information about a film's public display schedule"
+    },
+    {
+        "AddToPlaylist": "user wants to add a song to a playlist",
+        "BookRestaurant": "user wants to book/make a reservation at a restaurant",
+        "GetWeather": "user wants to know about the weather",
+        "PlayMusic": "user wants to play a song",
+        "RateBook": "User seeks or provides a book's evaluation.",
+        "SearchCreativeWork": "user wants to find a creative work (book, song etc.)",
+        "SearchScreeningEvent": "User seeks information about a film's scheduled showtimes."
+    },
+    {
+        "AddToPlaylist": "user wants to add a song to a playlist",
+        "BookRestaurant": "user desires to reserve a table at a dining establishment.",
+        "GetWeather": "user wants to know about the weather",
+        "PlayMusic": "User requests audio playback of a specific track.",
+        "RateBook": "User seeks or provides a book's evaluation.",
+        "SearchCreativeWork": "user wants to find a creative work (book, song etc.)",
+        "SearchScreeningEvent": "user seeks information about a film's public display schedule"
+    },
+    {
+        "AddToPlaylist": "user wants to add a song to a playlist",
+        "BookRestaurant": "user wants to book/make a reservation at a restaurant",
+        "GetWeather": "user wants to know about the weather",
+        "PlayMusic": "User requests audio playback of a specific track.",
+        "RateBook": "User seeks or provides an evaluation of a book's quality.",
+        "SearchCreativeWork": "user wants to find a creative work (book, song etc.)",
+        "SearchScreeningEvent": "user wants to know when a movie is on/screening time of a movie"
+    },
+    {
+        "AddToPlaylist": "User aims to include a track within their existing playlist.",
+        "BookRestaurant": "user wants to book/make a reservation at a restaurant",
+        "GetWeather": "The user requests meteorological information.",
+        "PlayMusic": "User requests audio playback of a specific track.",
+        "RateBook": "user wants the rating of/to rate a book",
+        "SearchCreativeWork": "user wants to find a creative work (book, song etc.)",
+        "SearchScreeningEvent": "user wants to know when a movie is on/screening time of a movie"
+    },
+    {
+        "AddToPlaylist": "user wants to add a song to a playlist",
+        "BookRestaurant": "user wants to book/make a reservation at a restaurant",
+        "GetWeather": "The user requests meteorological information.",
+        "PlayMusic": "User requests audio playback of a specific musical track.",
+        "RateBook": "User seeks or provides a book's evaluation.",
+        "SearchCreativeWork": "User seeks out artistic creations like books, music, or other expressive works.",
+        "SearchScreeningEvent": "user wants to know when a movie is on/screening time of a movie"
+    }
+]
